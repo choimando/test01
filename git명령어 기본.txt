@@ -1,0 +1,15 @@
+git 명령어 기본
+
+
+
+
+git add .
+git init
+git commit -m "first commit"
+
+git remote add origin https://github.com/choimando/test01.git
+
+git config --global user.email "choihj2802@gmail.com"
+
+git brantch -M main
+git push -u origin main
